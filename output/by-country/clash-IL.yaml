@@ -16,7 +16,7 @@ proxies:
   ws-opts:
     path: /platform115
     headers:
-      Host: platform115.golnamakcert.top
+      Host: platform115.halalkhor.info
 - name: 🇮🇱 IL 02 - xiaohe
   type: vless
   server: fserver-worker-001.mapleridgeway.top
