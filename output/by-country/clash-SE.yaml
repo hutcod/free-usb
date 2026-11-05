@@ -25,7 +25,7 @@ proxies:
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: 194.104.94.141
+  servername: se3.shtil.io
 - name: 🇸🇪 SE 03 - xiaohe
   type: vless
   server: se3.shtil.io
